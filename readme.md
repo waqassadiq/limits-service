@@ -1,0 +1,1 @@
+spring-cloud-starter-bootstrap also needs to be added, to run this application.
